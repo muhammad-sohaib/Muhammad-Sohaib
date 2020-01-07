@@ -1,0 +1,2 @@
+# Muhammad-Sohaib
+My name is Muhammad Sohaib Usman, basically, I am a  web developer and web designer. But also I am the best typist my overall typing speed is 50 words per minute.  I have over 5 years of experience in front end and back end web development. My expertise in HTML5, CSS3, Bootstrap4, JavaScript, jQuery, Ajax, JSON, WordPress, PHP, My SQL, Inpage(Inpage is a software which uses for Urdu Typing), MS Word, MS Excel, PowerPoint, etc.
